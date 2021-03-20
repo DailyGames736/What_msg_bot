@@ -1,0 +1,2 @@
+import pywhatkit
+pywhatkit.sendwhatmsg('+972544502923', 'Hey whatsapp?', 11, 59)
